@@ -1,6 +1,6 @@
 # Termos de Serviço  
 **Aplicação Midnight Core**  
-**Última atualização:** 03 de Maio de 2025
+**Última atualização:** 12 de Agosto de 2025
 
 Estes Termos de Serviço regem o uso da aplicação *Midnight Core*, disponibilizada por meio da plataforma Discord. Ao interagir com a aplicação dentro do servidor oficial, o usuário declara estar ciente e de pleno acordo com as condições descritas neste documento.
 
