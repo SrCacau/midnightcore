@@ -1,27 +1,27 @@
 # Midnight Core
 
-**Midnight Core** é uma aplicação personalizada para servidores Discord desenvolvida pela equipe [Midnight Sun Studios](https://discord.gg/2bWyFFF7Fr).  
-Seu principal objetivo é fornecer funcionalidades de gamificação, economia interna e rastreamento de atividades dos usuários com segurança, desempenho e confiabilidade.
+**Midnight Core** é uma aplicação avançada para servidores Discord desenvolvida pela equipe [Midnight Sun Studios](https://discord.gg/2bWyFFF7Fr).  
+Seu foco é fornecer funcionalidades completas de gamificação, economia, inventário e rastreamento de usuários — tudo com segurança, desempenho e flexibilidade para múltiplos servidores.
 
 ---
 
-## ✨ Funcionalidades Principais
+## ✨ Funcionalidades
 
-- 🎯 Sistema de XP e Nível automático com base na atividade do usuário  
-- 💰 Economia interna com moedas, tokens e loja virtual  
-- 🛒 Sistema de itens compráveis integrados ao inventário  
-- 📊 Rastreamento de mensagens e estatísticas por usuário  
-- 🧠 Estrutura de dados persistente e protegida  
-- 🔒 Sistema de desativação e reativação automática de dados ao sair e retornar ao servidor  
-- 🚫 Exclusão automática de dados em casos de banimento ou expulsão
+- 🎯 Sistema de XP e nível com base na atividade dos usuários
+- 💰 Economia interna com moedas virtuais, tokens e loja integrada
+- 🛒 Inventário de itens adquiríveis e sistema de ativação
+- 📊 Estatísticas e histórico de participação dos membros
+- 📁 Armazenamento persistente com segurança e organização
+- 🔧 Suporte multi-servidor com dados isolados e independentes
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
 - **Python**  
-- **Discord.py**  
-- **JSON** (para armazenamento de dados)
+- **discord.py** (interações com o Discord)
+- **JSON** (armazenamento local de dados — versão atual)
+- **dotenv** (variáveis de ambiente)
 
 ---
 
@@ -38,13 +38,6 @@ Você pode encontrar mais informações, termos de uso e políticas em:
 - [Termos de Serviço](./TERMS.md)
 - [Política de Privacidade](./PRIVACY.md)
 - [Licença](./LICENSE)
-
----
-
-## 🚧 Aviso
-
-> Esta aplicação só funciona em seu servidor oficial vinculado à equipe **Midnight Sun Studios**.  
-> O uso não autorizado, cópia ou redistribuição é estritamente proibido.  
 
 ---
 
